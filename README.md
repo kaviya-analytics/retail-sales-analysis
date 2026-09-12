@@ -50,5 +50,5 @@ The dataset contains 50 retail transactions with the following fields:
 - Use targeted marketing for cities with high-value Electronics purchases.
 - Introduce cross-selling and promotional offers for Grocery and other high-volume categories.
 - Monitor payment preferences to improve customer convenience.
-- ## Project Outcome
+## Project Outcome
 - The dashboard provides a clear and interactive view of retail sales performance and helps identify important patterns that can support data-driven business decisions.
