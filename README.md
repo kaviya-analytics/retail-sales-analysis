@@ -52,3 +52,5 @@ The dataset contains 50 retail transactions with the following fields:
 - Monitor payment preferences to improve customer convenience.
 ## Project Outcome
 - The dashboard provides a clear and interactive view of retail sales performance and helps identify important patterns that can support data-driven business decisions.
+## Dashboard preview
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
